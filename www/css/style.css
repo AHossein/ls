@@ -1,0 +1,32 @@
+.col-12
+{
+  text-align: center;
+}
+
+.btn-default
+{
+  background-color: rgb(89, 230, 235);
+}
+
+h1
+{
+  color: blue;
+  font-weight: bold;
+}
+
+table
+{
+  border-collapse: collapse;
+}
+
+td
+{
+  border: 2px solid black;
+  padding: 5px;
+}
+
+.first
+{
+  color: white;
+  background-color: blue;
+}
